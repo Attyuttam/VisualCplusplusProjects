@@ -1,0 +1,27 @@
+﻿  ApplyHillClimbing.cpp
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\Travelling Salesman\TravellingSalesman\TravellingSalesman\ApplyHillClimbing.cpp(6): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\Travelling Salesman\TravellingSalesman\TravellingSalesman\ApplyHillClimbing.cpp(11): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\Travelling Salesman\TravellingSalesman\TravellingSalesman\ApplyHillClimbing.cpp(22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TravellingSalesman.cpp
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\Travelling Salesman\TravellingSalesman\TravellingSalesman\TravellingSalesman.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\Travelling Salesman\TravellingSalesman\TravellingSalesman\TravellingSalesman.cpp(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\Travelling Salesman\TravellingSalesman\TravellingSalesman\TravellingSalesman.cpp(54): warning C4244: 'argument': conversion from '_Ty2' to 'T', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\Travelling Salesman\TravellingSalesman\TravellingSalesman\TravellingSalesman.cpp(54): warning C4244: 'argument': conversion from '_Ty1' to 'T', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Generating Code...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'

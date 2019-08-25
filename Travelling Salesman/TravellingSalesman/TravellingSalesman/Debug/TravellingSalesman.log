@@ -1,0 +1,22 @@
+﻿  TravellingSalesman.cpp
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\Travelling Salesman\TravellingSalesman\TravellingSalesman\TravellingSalesman.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\Travelling Salesman\TravellingSalesman\TravellingSalesman\TravellingSalesman.cpp(27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\Travelling Salesman\TravellingSalesman\TravellingSalesman\TravellingSalesman.cpp(53): warning C4244: 'argument': conversion from '_Ty2' to 'T', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\Travelling Salesman\TravellingSalesman\TravellingSalesman\TravellingSalesman.cpp(53): warning C4244: 'argument': conversion from '_Ty1' to 'T', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+          and
+          [
+              T=float
+          ]
+  TravellingSalesman.vcxproj -> C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\Travelling Salesman\TravellingSalesman\Debug\TravellingSalesman.exe

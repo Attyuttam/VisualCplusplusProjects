@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TravellingSalesmanPSO", "TravellingSalesmanPSO\TravellingSalesmanPSO.vcxproj", "{06F0C7E0-C687-4B0A-9D6C-A76E93F325BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06F0C7E0-C687-4B0A-9D6C-A76E93F325BA}.Debug|x64.ActiveCfg = Debug|x64
+		{06F0C7E0-C687-4B0A-9D6C-A76E93F325BA}.Debug|x64.Build.0 = Debug|x64
+		{06F0C7E0-C687-4B0A-9D6C-A76E93F325BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{06F0C7E0-C687-4B0A-9D6C-A76E93F325BA}.Debug|x86.Build.0 = Debug|Win32
+		{06F0C7E0-C687-4B0A-9D6C-A76E93F325BA}.Release|x64.ActiveCfg = Release|x64
+		{06F0C7E0-C687-4B0A-9D6C-A76E93F325BA}.Release|x64.Build.0 = Release|x64
+		{06F0C7E0-C687-4B0A-9D6C-A76E93F325BA}.Release|x86.ActiveCfg = Release|Win32
+		{06F0C7E0-C687-4B0A-9D6C-A76E93F325BA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AA359F6-6B54-4C4A-AE7D-7C3C0849B8E9}
+	EndGlobalSection
+EndGlobal

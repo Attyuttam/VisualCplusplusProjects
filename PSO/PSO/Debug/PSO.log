@@ -1,0 +1,28 @@
+﻿  Source.cpp
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\PSO\PSO\Source.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\PSO\PSO\Source.cpp(51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\PSO\PSO\Source.cpp(94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\PSO\PSO\Source.cpp(94): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\PSO\PSO\Source.cpp(103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\PSO\PSO\Source.cpp(103): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\PSO\PSO\Source.cpp(115): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\PSO\PSO\Source.cpp(116): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\PSO\PSO\Source.cpp(125): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\PSO\PSO\Source.cpp(125): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=double
+          ]
+  PSO.vcxproj -> C:\Users\Attyuttam Saha\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C++ Project\PSO\Debug\PSO.exe
